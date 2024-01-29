@@ -41,12 +41,12 @@ graph TD
 1. 克隆此仓库到您的本地机器上：
 
    ```bash
-   git clone https://github.com/BriceLucifer/rust-search-.git
+   git clone https://github.com/BriceLucifer/rust-search.git
 
 1. 进入项目目录：
 
    ```
-   cd rust-search-
+   cd rust-search
    ```
 
 2. 构建项目：
